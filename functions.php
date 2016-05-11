@@ -1,3 +1,5 @@
 <?php  
-	var_dump('something new');
+	function test() {
+		return true;
+	}
 ?>
